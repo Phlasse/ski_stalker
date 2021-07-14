@@ -1,15 +1,15 @@
 import streamlit as st
 import pandas as pd
 import time
-import datetime
-#from datetime import datetime
 import geopy
 from geopy.geocoders import Nominatim
 from streamlit_folium import folium_static
 import folium
 from PIL import Image
-import random
 from folium.plugins import Fullscreen
+from random import randint
+import time
+import os
 
 st.set_page_config(layout = 'wide')
 
@@ -45,3 +45,14 @@ with col3:
 with col4:
     col4.write("🌤 bei 22 Grad Celsius")
 st.write(customer_df)
+
+
+def refresher(seconds):
+    while True:
+        mainDir = os.path.dirname(__file__)
+        filePath = os.path.join(mainDir, 'dummy.py')
+        with open(filePath, 'w') as f:
+            f.write(f'# {randint(0, 10000)}')
+        time.sleep(seconds)
+
+refresher(5)
