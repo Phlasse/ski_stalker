@@ -54,5 +54,6 @@ def refresher(seconds):
         with open(filePath, 'w') as f:
             f.write(f'# {randint(0, 10000)}')
         time.sleep(seconds)
+        customer_df = pd.read_csv('data/customer.csv', sep=',')
 
-refresher(5)
+customer_df = refresher(5)
