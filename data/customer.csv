@@ -1,3 +1,21 @@
-name,street,number,zip_code,city,country,type,customer_id
-Aletsch Bahnen AG,Hauptstrasse,12,3992,Bettmeralp,Switzerland,DP,1
-Ski amadé,Prehauserplatz,3,5550,Radstadt,Austria,AN,2
+name,street,number,zip_code,city,country,type,customer_id,Km
+Aletsch Bahnen AG,Hauptstrasse,12,3992,Bettmeralp,Switzerland,DP,1,
+Ski amadé,Prehauserplatz,3,5550,Radstadt,Austria,AN,2,
+Arlberger Bergbahnen AG,Kandaharweg,9,6580,St. Anton am Arlberg,Austria,NO,3,300
+BB Skiwelt Wilder Kaiser,Dorf,84,6306,Söll,Austria,NO,4,288
+Bergbahnen Saalbach-Hinterglemm,Zwölferkogelweg,208,5754,Saalbach,Austria,NO,5,270
+Bergbahnen Ischgl,Silvrettaplatz,2,6561,Ischgl,Austria,NO,6,239
+Bergbahnen Serfauss,Dorfbahnstraße,2,6534,Serfaus,Austria,LE,7,198
+Bergbahnen Zillertal Arena,Rohr,23,6280,Rohrberg,Austria,NO,8,146
+Bergbahnen Mayrhofen,Ahornstraße,853,6290,Mayrhofen,Austria,NO,9,142
+Bergbahnen Stubaier Gletscher,Mutterberg,1,6167,Neustift im Stubaital,Austria,NO,10,110
+Bergbahnen Nassfeld Pramollo,Schlosserweg 70,8,9620,Sonnenalpe,Austria,NO,11,110
+BB Bad Kleinkirchheim,Schneerosenweg,1,9546,Bad Kleinkirchheim,Austria,AN,12,103
+Bergbahnen Gurgl,Gurglerstraße,93,6456,Obergurgl,Austria,DP,13,108
+Bergbahnen Obertauern,Römerstraße,8,5562,Obertauern,Austria,NO,14,100
+BB Ski Juwel Aplbachtal,Alpbach,311,6236,Alpbach,Austria,NO,15,91
+Oetztal,Dorfstraße,115,6450,Sölden,Austria,DP,18,
+Zermatt Bergbahnen AG,Schluhmattstrasse,28,3920,Zermatt,Switzerland,DP,21,322
+Weisse Arena BB AG,Via Murschetg,17,7032,Laax,Switzerland,PN,24,188
+Engadin St. Moritz AG,Via San Gian,30,7500,St. Moritz,Switzerland,PN,25,155
+Lenk Bergbahnen [Adelboden-Lenk],Bodenstrasse,2,3715,Adelboden,Switzerland,LE,32,86
