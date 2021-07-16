@@ -1,7 +1,8 @@
 # pylint: disable=missing-docstring
-
-import sys
 import requests
+import pandas as pd
+from geopy.geocoders import Nominatim
+
 
 BASE_URI = "https://www.metaweather.com"
 
@@ -21,18 +22,28 @@ def weather_forecast(woeid):
     temp = weatherdata[0]["max_temp"]
     return date, weather, temp
 
-def main():
-    query = input("City?\n> ")
-    city = search_city(query)
-    if city is not None:
-        weather_forecast(city["woeid"])
-        return print("Are you happy? Do you want the weather for another..")
-    return False
+def get_latlo(address):
+    geolocator = Nominatim(user_agent="busy")
+    location = geolocator.geocode(address)
+    loc_stats = (location.latitude, location.longitude)
+    return loc_stats
 
+def add_latlon_df(df):
+    for index, row in df.iterrows():
+        if row.lat != None:   
+            try:
+                query = row.street+' '+str(row.number)+', '+str(row.zip_code)+', '+str(row.country)
+                lat, lon = get_latlo(query)
+                df.loc[df.index==index,'lat'] = lat    
+                df.loc[df.index==index,'lon'] = lon    
+            except:
+                try:
+                    lat, lon = get_latlo(row.address)
+                    df.loc[df.index==index,'lat'] = lat
+                    df.loc[df.index==index,'lon'] = lon
+                except:
+                    print(row.address, ' could not be found')
+    df.to_csv('../data/customer.csv', index=False)
+            
 if __name__ == '__main__':
-    try:
-        while True:
-            main()
-    except KeyboardInterrupt:
-        print('\nGoodbye!')
-        sys.exit(0)
+    add_latlon_df(pd.read_csv('../data/customer.csv'))
