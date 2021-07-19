@@ -43,7 +43,7 @@ def add_latlon_df(df):
                     df.loc[df.index==index,'lon'] = lon
                 except:
                     print(row.address, ' could not be found')
-    df.to_csv('../data/customer.csv', index=False)
+    df.to_csv('../data/customer1.csv', index=False)
             
 if __name__ == '__main__':
-    add_latlon_df(pd.read_csv('../data/customer.csv'))
+    add_latlon_df(pd.read_csv('../data/customer1.csv'))

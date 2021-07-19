@@ -1,0 +1,317 @@
+name,address,country,type,customer_id,Km,lat,lon,country_abr
+Dolomiti Superski (Verbund),"Arnaria Str., 43
+I-39040 Kastelruth (BZ)",Italy,,1,1200km,,,
+Ski Amadé (Verbund),"Ski amadé GmbH
+Prehauserplatz 3
+5550 Radstadt",Austria,,2,760km,,,
+Les 3 Vallées,"378 avenue des Belleville
+BP 62
+73602 Moutiers Cedex
+Frankreich",France,,3,600km,,,
+Les Portes du Soleil,"1401, rte de Vonnes 
+74390 Châtel 
+Frankreich",Switzerland,,4,580km,,,
+4 Vallées,"Route de Thyon 12 
+Batterie Thyon 2000 Nr° 4044 
+1988 Thyon 
+Schweiz",Switzerland,,5,412km,,,
+Via Lattea,"Piazza Angeli, 4 
+10058 Sestrière 
+Italien",Italy /France,,6,400km,,,
+Zermatt Bergbahnen AG,"3920 Zermatt
+Schweiz",Switzerland / Italy,,7,322km,,,
+Les Sybelles,"Le Corbier / St Jean d'Arves / St Colomban des Villards
+Immeuble Ariane
+73300 Le Corbier
+Frankreich",France,,8,310km,,,
+Aarlberger Bergbahnen,"Kandaharweg 9 
+6580 St. Anton am Arlberg 
+Österreich",Austria,,9,303km,,,
+Tignes -Val d'Isère,"BP 51 
+73321 Tignes 
+Frankreich",France,,10,300km,,,
+SkiWelt Wilder Kaiser-Brixental,"Dorf 84 
+6306 Söll 
+Österreich",Austria,,11,288km,,,
+Saalbach Hinterglemm Leogang Fieberbrunn (Skicircus),"Eberhartweg 308 
+5753 Saalbach 
+Österreich",Austria,,12,270km,,,
+Davos Kloster BB AG,,Switzerland,,13,269km,,,
+Le Grand Massif,"Télécabine de Vercland 
+74340 Samoëns 
+Frankreich",France,,14,265km,,,
+Megève  Saint-Gervais,"220 route du Téléphérique de Rochebrune 
+74120 Megève 
+Frankreich",France,,15,263km,,,
+Serre-Chevallier [Compagnie des Alpes],"Le Serre d’Aigle 
+05330 Saint Chaffrey 
+Frankreich",France,,16,250km,,,
+L'Alpe d'Huez,"Société d'Aménagement Touristique de l'Alpe d'Huez et des Grandes Rousses 
+Rue du Pic Blanc 
+BP 54 
+38750 Alpe d'Huez 
+Frankreich",France,,17,250km,,,
+Ischgl- Samnaun – Silvretta Arena,"Silvrettaplatz 2 
+6561 Ischgl 
+Österreich",Austria / Switzerland,,18,239km,,,
+Arosa Lenzerheide,"Seeblickstrasse 29 
+7050 Arosa 
+Schweiz",Switzerland,,19,225km,,,
+La Plagne (Paradiski),"Plagne Centre 
+73210 La Plagne 
+Frankreich",France,,20,225km,,,
+Les 2 Alpes,"Le Meijotel 
+38860 Les Deux Alpes 
+Frankreich",France,,21,200km,,,
+Les Arcs - Peisey-Vallandry (Paradiski),"Chalet des Villards 
+CS 30302 Arc 1800 
+73700 Bourg Saint Maurice 
+Frankreich",France,,22,200km,,,
+Serfaus-Fiss-Ladis,"Seilbahnstraße 44 
+6533 Fiss 
+Österreich",Austria,,23,198km,,,
+Espace Diamant,"135 avenue des Jeux Olympiques 
+73620 Les Saisies 
+Frankreich",France,,24,192km,,,
+Laax - Flims - Falera,"Via Murschetg 17 
+7032 Laax 
+Schweiz",Austria,,25,188km,,,
+Vars Risoul – La Forêt Blanche,"Cours Fontanarosa 
+05560 Vars 
+Frankreich",France,,26,185km,,,
+Kitzbühel - Kirchberg – KitzSki,"Hahnenkammstr. 1a 
+6370 Kitzbühel 
+Österreich",Austria,,27,181km,,,
+Espace Lumière – Pra Loup  Val d’Allos,"04400 Pra Loup 
+Frankreich",France,,28,180km,,,
+Gröden (Val Gardena),"Chemunstraße 7 
+39047 St. Christina/Gröden 
+Italien",Italy,,29,178km,,,
+Le Grand Domaine,"La Tour 
+73260 Valmorel 
+Frankreich",France,,30,165km,,,
+Galibier Thabor – Valmeinier Valloire,"Maison de Valmeinier 
+73140 Valmeinier 
+Frankreich",France,,31,160km,,,
+Engadin St. Moritz Mountains AG,"Via San Gian 30 
+7500 St. Moritz 
+Schweiz",Switzerland,,32,155km,,,
+Espace San Bernardo – La Rosière La Thuile,"Maison du Ski 
+73700 La Rosière 
+Frankreich",France / Italy,,33,152km,,,
+Madonna di Campiglio,"Via Presanella, 12 
+38086 Madonna di Campiglio 
+Italien",Italy,,34,150km,,,
+Zillertal Arena,"Zeller Bergbahnen Zillertal GmbH & Co KG 
+Rohr 23 
+6280 Zell am Ziller 
+Österreich",Austria,,35,146km,,,
+Sölden,"Dorfstraße 115 
+6450 Sölden 
+Österreich",Switzerland,,36,143km,,,
+Mayrhofen,"Ahornstraße 853 
+6290 Mayrhofen 
+Österreich",Switzerland,,37,142km,,,
+Crans-Montana,"Remontées Mécaniques de Crans-Montana Aminona SA 
+Rte des Barzettes 
+Case postale 352 
+3963 Crans-Montana 
+Schweiz",Switzerland,,38,140km,,,
+Auron,"10 rue des communes de France 
+06660 Saint-Etienne-de-Tinée 
+Frankreich",France,,39,135km,,,
+Alagna Valsesia,"Comprensorio Sciistico Monterosa Ski 
+Route Ramey 69 
+11020 Champoluc 
+Italien",italy,,40,132km,,,
+Alta Badia,"Str. Col Alt, 36 
+39033 Corvara 
+Italien",italy,,41,130km,,,
+Val Cenis,"Télécabine du Vieux Moulin 
+73480 Lanslevillard 
+Frankreich",France,,42,125km,,,
+Espace Villard Corrençon,"Société d'équipement de Villard de Lans - Corrençon en Vercours 
+Côte 2000 
+38250 Villard de Lans 
+Frankreich",France,,43,125km,,,
+La Clusaz  Manigod,"26 route de l'Étale 
+74220 La Clusaz 
+Frankreich",France,,44,125km,,,
+Planai-Hochwurzen Bahnen [Ski Amade],"Coburgstrasse 52 
+8970 Schladming 
+Österreich",Austria,,45,123km,,,
+Hochkönig –,"Schlöglberg 63 
+5505 Mühlbach 
+Österreich",Austria,,46,120km,,,
+Snow Space Salzburg,"Markt 59 
+5602 Wagrain 
+Österreich",Austria,,47,120km,,,
+Corvatsch/ Furtschellas,"Via dal Corvatsch 73 
+7513 Silvaplana 
+Schweiz",Switzerland,,48,120km,,,
+Cortina d'Ampezzo,"Via Marconi, 15 
+32043 Cortina d'Ampezzo 
+Italien",Italy,,49,120km,,,
+Obersaxen - Mundaun - Val Lumnezia,"Bergbahnen Piz Mundaun AG 
+Schnaggabial 10 
+7134 Obersaxen 
+Schweiz",Switzerland,,50,120km,,,
+Les 7 Laux – Prapoutel- Le Pleynet -Pipay,"Prapoutel 
+38190 Les Adrets 
+Frankreich",France,,51,120km,,,
+Les Contamines - Hauteluce,"Société d'Équipement des Contamines Montjoie Hauteluce 
+604 route des Moranches 
+74170 Les Contamines-Montjoie 
+Frankreich",France,,52,120km,,,
+Isola 2000,"10 rue des communes de France 
+06660 Saint-Etienne-de-Tinée 
+Frankreich",France,,53,120km,,,
+Kronplatz [Dolomiti Superski],"Michael Pacher Str. 11 A 
+39031 Bruneck 
+Italien",Italy,,54,119km,,,
+Silvretta Montafon,"Silvrettaplatz 1 
+6780 Schruns 
+Österreich",Austria,,55,118km,,,
+Drei Zinnen,"Schattenweg 2/F 
+39038 Innichen - Vierschach 
+Italien",Italy,,56,115km,,,
+Livigno,"23030 Livigno 
+Italien",Italy,,57,115km,,,
+Grimentz - Zinal,"Route des Amis de la Nature 3 
+3961 Grimentz 
+Schweiz",Switzerland,,58,115km,,,
+Gurgl - Obergurgl-Hochgurgl,"Gurglerstraße 93 
+6456 Obergurgl 
+Österreich",Austria,,59,112km,,,
+Nassfeld - Hermagor,"Info & Servicecenter 
+Wulfeniaplatz 1 
+9620 Hermagor 
+Österreich",Austria,,60,110km,,,
+Stubaier Gletscher,"Stubaier Bergbahnen KG 
+Mutterberg 2 
+6167 Neustift 
+Österreich",Austria,,61,110km,,,
+Mondolè Ski – Artesina - Frabosa Soprana - Prato Nevoso,"Piazza Municipio 5 
+12082 Frabosa Soprana 
+Italien",Italy,,62,105km,,,
+Aletsch Bahnen AG,"Postfach 16
+3992 Bettmeralp
+Schweiz",Switzerland,,63,104km,,,
+Bad Kleinkirchheim,"Sport- u. Kuranlagen GmbH & Co. KG 
+Dorfstraße 74 
+9546 Bad Kleinkirchheim 
+Österreich",Austria,,64,103km,,,
+Kleine Scheidegg- Männlichen,"Harderstrasse 14 
+3800 Interlaken 
+Schweiz",Switzerland,,65,102km,,,
+Liftgemeinschaft Obertauern,"Seekarstraße 2 
+5562 Obertauern 
+Österreich",Austria,,66,100km,,,
+Ponte di Legno,"Via F.lli Calvi, 53 
+25056 Ponte di Legno (BS) 
+Italien",Italy,,67,100km,,,
+Saas-Fee,"Panoramastrasse 5 
+3906 Saas-Fee 
+Schweiz",Switzerland,,68,100km,,,
+Grand Tourmalet- Pic du Midi – La Mongie/ Barèges,"3 bis avenue Jean Prat 
+65100 Lourdes 
+Frankreich",France,,69,100km,,,
+Dévoluy – Superdévoluy- La Joue du Loup,"c/o OT de Tourisme du Dévoluy 
+Le Pré 
+05250 Le Dévoluy 
+Frankreich",France,,70,100km,,,
+Bardonecchia,"Uffici commerciali/Ufficio Skipass 
+Piazza Europa, 15 
+10052 Bardonecchia 
+Italien",Italy,,71,100km,,,
+Les Orres,"Société d'Economie Mixte Locale des Orres 
+Bâtiment administratif 
+05200 Les Orres 
+Frankreich",France,,72,100km,,,
+Orcières Merlette 1850,"Rue des Écrins 
+05170 Orcières 
+Frankreich",France,,73,100km,,,
+Saint-Lary-Soulan,"Le Téléphérique - BP 35 
+65170 Saint-Lary 
+Frankreich",France,,74,100km,,,
+Davos Klosters Bergbahnen AG,"Davos Klosters Bergbahnen AG 
+Brämabüelstrasse 11 
+7270 Davos Platz",Switzerland,,75,95km,,,
+Ski Juwel Alpbachtal Wildschönau,"Wildschönau, Alpbach 311, 6236 Alpbach, Österreich",Austria,,76,91km,,,
+Alto Sangro – Roccaraso Rivisondoli,"Viale Roma, 48 
+67037 Roccaraso 
+Italien",Italy,,77,91km,,,
+Regie Remontees Méchaniques Chamrousse,"42, place de Belledonne 
+38410 Chamrousse 
+Frankreich 
+Tel.: +33 / 476 / 89 92 6",France,,78,90km,,,
+Valberg- Beuil les Launes,"Société d'exploitation des remontées mécaniques 
+Les Myrtilles 
+Place du Quartier 
+06470 Valberg 
+Frankreich",France,,79,90km,,,
+Rinderberg,"Promenade 41 
+3780 Gstaad 
+Schweiz",Switzerland,,80,89km,,,
+Drei Zinnen,"Schattenweg 2/F 
+39038 Innichen - Vierschach 
+Italien",Italy,,81,86km,,,
+Adelboden - Lenk,"Badstrasse 1 
+3775 Lenk 
+Schweiz",Switzerland,,82,86km,,,
+Le Grand Bornand,"81 route du Borne 
+BP 23 
+74450 Le Grand-Bornand 
+Frankreich",France,,83,86km,,,
+Bergbahnen Skizentrum Hochzillertal,"Postfeldstraße 7 
+6272 Kaltenbach 
+Österreich",Austria,,84,86km,,,
+Les Portes du Mont-Blanc – Combloux,"207 Route des Brons 
+74920 Cambloux 
+Frankreich",France,,85,85km,,,
+Alpes Vaudoises,"Gasteiner Bundesstraße 567 
+5630 Bad Hofgastein 
+Österreich",Switzerland,,86,84km,,,
+Bad Gastein - Bad Hofgastein,"Gasteiner Bundesstraße 567 
+5630 Bad Hofgastein 
+Österreich",Austria,,87,83km,,,
+Bergbahnen Mellau GmbH & Co KG,"Hinterbündt 380 
+6881 Mellau 
+Österreich",Austria,,88,81km,,,
+Station Ax 3 Domaines,"Boulevard de la Griole 
+09110 Ax les Thermes 
+Frankreich",France,,89,80km,,,
+Schmittenhöhebahn AG,"Postfach 8 
+5700 Zell am See 
+Österreich",Austria,,90,77km,,,
+Wildkogelbahn AG,"Wildkogelbahnstraße 343 
+5741 Neukirchen am Großvenediger 
+Österreich",Austria,,91,75km,,,
+SAEM Les Ecrin (Puy-Saint-Vincent),"Station 1600 
+05290 Puy Saint Vincent 
+Frankreich",France,,92,75km,,,
+Folgaria-Fiorenti (Alpe Cimbra),"Info Skiarea Folgaria-Fiorentini 
+Via Roma, 60 
+38064 Folgaria 
+Italien",Italy,,93,74km,,,
+Savognin Bergbahnen AG,"Stradung 42 
+7460 Savognin 
+Schweiz",Switzerland,,94,74km,,,
+Civetta Ski Resort (Dolomiti Superski),"Via Col di Lana 
+32023 Caprile 
+Italien",Italy,,95,72km,,,
+Bergbahnen Scuol AG,"Via da Ftan 495 
+7550 Scuol 
+Schweiz",Switzerland,,96,70km,,,
+Andermatt-Sedrun Sport AG,"Oberalppass 
+Berggasthaus Piz Calmot 
+6490 Andermatt 
+Schweiz",Switzerland,,97,70km,,,
+Titlis – Engelberg,"Talstation 
+Gerschnistrasse 12 
+Postfach 88 
+6391 Engelberg 
+Schweiz",Switzerland,,98,70km,,,
+Katschberg,"Katschberghöhe 17, 9863 Katschberghöhe, Österreich",Austria,,99,70km,,,
+Passo San Pellegrino Falcade,"Strada Statale 346 del Passo di S. Pellegrino, 17, 38035 Piè Falcade BL, Italien",Italy,,100,68km,,,
+Nauders am Reschenpass – Bergkastel,"Gewerbegebiet 1, 6543 Nauders, Österreich",Austria,,101,67km,,,
