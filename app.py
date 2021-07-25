@@ -30,7 +30,7 @@ col1, col2, col3, col4= st.beta_columns(4)
 with col1:
     ###### creating the map #####
     #europe_geo = r'data/europe.geojson' # geojson file
-    n = folium.Map(location=[Alp_center_lat, Alp_center_lon], zoom_start=6, tiles="Stamen Terrain", width='80%')
+    n = folium.Map(location=[Alp_center_lat, Alp_center_lon], zoom_start=6, width='80%')
     #for index, row in customer_df[customer_df.type=='DP'].iterrows():
     #    pin = row.name
     #    folium.Marker([row.lat, row.lon], popup=row.name, icon=folium.Icon(color='darkblue', icon='send'),tooltip=pin).add_to(n)
